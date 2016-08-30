@@ -30,17 +30,17 @@ Donde:
 
 - `n` representa el tamaño del heap, y debe ser igual al numero de elementos en la entrada. 
 
-...Ejemplo:
-......n = 1 -> 1 kElementos = 1024 elementos
-......n = 2 -> 2 kElementos = 2048 elementos
-......n = 3 -> 3 kElementos = 3072 elementos
+  Ejemplo:
+    n = 1 -> 1 kElementos = 1024 elementos
+    n = 2 -> 2 kElementos = 2048 elementos
+    n = 3 -> 3 kElementos = 3072 elementos
 	
 - `--version x` representa la version de heapsort a usar. Donde x puede vale:
 
-......x = s -> HeapSort estándar 
-......x = f -> HeapSort usando heapificacion de Floyd
-......x = w -> HeapSort usando extractMin de Wegener
-......x = wf o x = fw -> HeapSort usando heapificacion de Floyd y extractMin de Wegener
+    x = s -> HeapSort estándar 
+    x = f -> HeapSort usando heapificacion de Floyd
+    x = w -> HeapSort usando extractMin de Wegener
+    x = wf o x = fw -> HeapSort usando heapificacion de Floyd y extractMin de Wegener
    
 - `-v` es una entrada opcional e indica si quiere la compilación con depuración (paso a paso)
 
