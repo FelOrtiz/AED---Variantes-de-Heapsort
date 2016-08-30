@@ -15,7 +15,7 @@ Consideren las implementaciones de HeapSort estándar y las siguiente optimizaci
 | Extracción estándar | HeapSortS | HeapSortF |
 | Extracción de Wegener | HeapSortW | HeapSortFW |
 
-Donde HeapSortS se refiere a la versión estándar, HeapSortF a la que heapifica con Floyd con extracción están0dar del mínimo, HeapSortW a la que usa la heapificación estándar y extrae mínimos con Wegener y HeapSortWF a la que heapifica con Floyd y extrae mínimos con Wegener.
+Donde HeapSortS se refiere a la versión estándar, HeapSortF a la que heapifica con Floyd con extracción estándar del mínimo, HeapSortW a la que usa la heapificación estándar y extrae mínimos con Wegener y HeapSortWF a la que heapifica con Floyd y extrae mínimos con Wegener.
 
 #### Ejecución
 
